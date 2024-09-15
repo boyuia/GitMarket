@@ -1,0 +1,16 @@
+<project>
+<name>$projectname</name>
+<commits>
+<commit>
+<author>$authorname</author>
+<message>This project has been improved.</message>
+<timestamp>100204765600</timestamp>
+<files>
+<file>
+<path>$filename.extention</path>
+<content>$content</content>
+</file>
+</files>
+</commit>
+</commits>
+</project>
